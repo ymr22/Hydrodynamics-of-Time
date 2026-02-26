@@ -20,22 +20,22 @@ Explore the individual research modules below. Each notebook contains the theore
 
 *Note: Physical hardware paths are hardcoded to match the `ibm_torino` execution data published in the paper to ensure reproducibility while protecting proprietary mapping algorithms (Patent Pending).*
 
-#### 1. [Kinematic Time Dilation (Twin Paradox)](./notebooks/01_kinematic_twin_paradox.ipynb)
+#### 1. [Kinematic Time Dilation (Twin Paradox)](./01_kinematic_twin_paradox.ipynb)
 * **The Paradox:** Why do moving clocks slow down?
 * **DTS Resolution:** Phase retardation in moving frames is a result of **Kinematic Drag**.
 * **Result:** Computational translation via `SWAP` gates consumes the lattice's phase capacity, mechanically deriving the Lorentz factor without Minkowski geometry.
 
-#### 2. [Gravitational Phase Shift (Pound-Rebka)](./notebooks/02_gravitational_pound_rebka.ipynb)
+#### 2. [Gravitational Phase Shift (Pound-Rebka)](./02_gravitational_pound_rebka.ipynb)
 * **The Paradox:** Why does light shift frequency in a gravity well?
 * **DTS Resolution:** Gravity is a gradient of **Topological Viscosity**.
 * **Result:** Spectral FFT analysis of a phonon falling into the density well confirmed a mechanical acoustic blueshift ($+\Delta\omega$), replacing spacetime curvature with fluid optics.
 
-#### 3. [The Arrow of Time (Entropic Decoherence)](./notebooks/03_arrow_of_time.ipynb)
+#### 3. [The Arrow of Time (Entropic Decoherence)](./03_arrow_of_time.ipynb)
 * **The Paradox:** Why does time only flow forward?
 * **DTS Resolution:** Irreversibility is the **dissipation of phase information** into the viscous vacuum.
 * **Result:** Measurement of the Shannon entropy of a 7-node GHZ state shows an irreversible climb toward maximum entropy, proving the Arrow of Time is a thermodynamic expansion into vacuum degrees of freedom.
 
-#### 4. [Causality Protection (Closed Timelike Curves)](./notebooks/04_causality_protection.ipynb)
+#### 4. [Causality Protection (Closed Timelike Curves)](./04_causality_protection.ipynb)
 * **The Paradox:** Can we travel back in time to change the past?
 * **DTS Resolution:** Time travel is limited by **Mechanical Impedance** and destructive interference.
 * **Result:** Injecting a retrocausal phase current ($-\omega t$) caused a state collapse to $P \approx 0.5$, demonstrating that the vacuum naturally "jams" to prevent logical paradoxes.
