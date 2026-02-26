@@ -62,11 +62,5 @@ Explore the individual research modules below. Each notebook contains the theore
 
 ---
 
-### 📜 Citation
-
-If you use this code or theory in your research, please cite the foundational paper:
-
-> Üstel, Y. (2025). *The Hydrodynamics of Time: Phase Friction, Kinematic Drag, and the Arrow of Time in a Discrete Superfluid Vacuum*. Zenodo. DOI: 10.5281/zenodo.XXXXXXX
-
 ### License
 MIT License
