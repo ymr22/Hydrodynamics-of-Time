@@ -46,7 +46,7 @@ Explore the individual research modules below. Each notebook contains the theore
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/hydrodynamics-of-time.git](https://github.com/your-username/hydrodynamics-of-time.git)
+    git clone [https://github.com/ymr22/hydrodynamics-of-time.git](https://github.com/ymr22/hydrodynamics-of-time.git)
     cd hydrodynamics-of-time
     ```
 
@@ -56,7 +56,7 @@ Explore the individual research modules below. Each notebook contains the theore
     ```
 
 3.  **Run the Notebooks:**
-    * Open any `.ipynb` file in the `notebooks/` directory.
+    * Open any `.ipynb` file in the `/` directory.
     * Provide your IBM Quantum API Token when prompted.
     * Ensure the backend is set to `service.backend('ibm_torino')` to match the hardcoded qubit layouts.
 
